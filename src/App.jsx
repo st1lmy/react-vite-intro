@@ -11,7 +11,7 @@ function App() {
       <Header />
       <main>
         <section>
-          <h3>Наш подход к обучению</h3>
+          <h3>BOMBOCLAT</h3>
           <ul>
             <WayToTeach
               title={ways[0].title}
